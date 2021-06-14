@@ -1,0 +1,83 @@
+{
+  "public": {
+    "uploads": [
+      {
+        "id": 1
+      }
+    ]
+  },
+  "documents": [
+    {
+      "id": 1,
+      "uploadeBy": "Amit Desai",
+      "uploadeOn": "2011-04-11T10:20:30Z",
+      "uploadeType": "docx",
+      "uploadeName": "Michiel_Findings",
+      "preview": "https://view.officeapps.live.com/op/embed.aspx?src=https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.doc",
+      "download": "http://localhost:9000/static/samples/assignment.docx"
+    },
+    {
+      "id": 2,
+      "uploadeBy": "Rohit Gupta",
+      "uploadeOn": "2019-05-11T10:20:30Z",
+      "uploadeType": "docx",
+      "uploadeName": "Assignmet",
+      "preview": "https://view.officeapps.live.com/op/embed.aspx?src=https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.doc",
+      "download": "http://localhost:9000/static/samples/assignment.docx"
+    },
+    {
+      "id": 3,
+      "uploadeBy": "Amit Desai",
+      "uploadeOn": "2016-04-12T10:20:30Z",
+      "uploadeType": "pdf",
+      "uploadeName": "Anual_Report2021",
+      "preview": "http://localhost:9000/static/samples/dummy.pdf",
+      "download": "http://localhost:9000/static/samples/dummy.pdf"
+    },
+    {
+      "id": 4,
+      "uploadeBy": "Amit Desai",
+      "uploadeOn": "2011-04-11T10:20:30Z",
+      "uploadeType": "xlsx",
+      "uploadeName": "Michiel_Mulders",
+      "preview": "https://view.officeapps.live.com/op/embed.aspx?src=https://file-examples-com.github.io/uploads/2017/02/file_example_XLS_100.xls",
+      "download": "http://localhost:9000/static/samples/Book1.xlsx"
+    },
+    {
+      "id": 5,
+      "uploadeBy": "Rohit Gupta",
+      "uploadeOn": "2019-05-11T10:20:30Z",
+      "uploadeType": "xlsm",
+      "uploadeName": "Taking_About_Doc",
+      "preview": "https://view.officeapps.live.com/op/embed.aspx?src=https://file-examples-com.github.io/uploads/2017/02/file_example_XLS_100.xls",
+      "download": "http://localhost:9000/static/samples/Book1.xlsx"
+    },
+    {
+      "id": 6,
+      "uploadeBy": "Amit Desai",
+      "uploadeOn": "2016-04-12T10:20:30Z",
+      "uploadeType": "pdf",
+      "uploadeName": "Anual_Report_02",
+      "preview": "http://localhost:9000/static/samples/dummy.pdf",
+      "download": "http://localhost:9000/static/samples/dummy.pdf"
+    },
+    {
+      "id": 7,
+      "uploadeBy": "Amit Desai",
+      "uploadeOn": "2016-04-12T10:20:30Z",
+      "uploadeType": "txt",
+      "uploadeName": "Anual_Report",
+      "preview": "http://localhost:9000/static/samples/sample.txt",
+      "download": "http://localhost:9000/static/samples/sample.txt"
+    },
+    {
+      "id": 8,
+      "uploadeBy": "Gopal Agarkar",
+      "uploadeOn": "2015-05-12T10:20:30Z",
+      "uploadeType": "pdf",
+      "uploadeName": "Test Report_02",
+      "preview": "http://localhost:9000/static/samples/dummy.pdf",
+      "download": "http://localhost:9000/static/samples/dummy.pdf"
+    }
+  ]
+}

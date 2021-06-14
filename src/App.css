@@ -1,0 +1,149 @@
+
+.app {
+  text-align: center;
+  background-color: white; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: normal;
+  color: white;
+  overflow:auto; 
+}
+
+.react-logo {
+  height: 10vmin;
+  pointer-events: none; 
+  animation: App-logo-spin infinite 20s linear;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.wrapper {
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.wrapper > * {
+  padding: 2px;
+  flex: 1 100%; 
+  display: flex;
+}
+
+.header {
+  background: rgb(58, 55, 55);
+  align-items: left;
+  height: 4em;
+  border: 1px solid black;
+}
+
+.footer {
+  order: 4;
+  background: rgb(58, 55, 55);
+  border: 1px solid black;
+  height: 33px;
+  justify-content: center;
+}
+
+.main {
+  flex: 5 0px;
+  order: 2;
+  text-align: left;
+  background: rgb(58, 55, 55);
+  height: 84vh;
+  border: 1px solid black;
+  overflow: auto;
+}
+
+.aside {
+  order: 1;
+  background: rgb(58, 55, 55);
+  flex: 1 0 0;
+  border: 1px solid black;
+}
+
+.menuIcon {
+  padding: 5px;
+  color: white;
+}
+
+
+ul {
+  display: flex;
+  vertical-align: middle;
+  flex-direction: column;
+  text-align: left;
+  list-style-type: none;
+}
+
+ul li {
+  margin-top: 20px;
+  cursor: pointer;
+  list-style-type: none;
+}
+
+ul li span {  
+  padding:5px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+.button-grey, .button-green {
+  background-color: lightgrey;
+  color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: normal;
+  padding: 3px 29px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button-green {
+  background-color: lightgreen;
+  color: black;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;  
+  white-space:nowrap;
+}
+
+
+
+
