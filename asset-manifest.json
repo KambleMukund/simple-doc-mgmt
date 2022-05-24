@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/simple-doc-mgmt/static/css/main.5713d629.chunk.css",
+    "main.js": "/simple-doc-mgmt/static/js/main.c50ee97e.chunk.js",
+    "main.js.map": "/simple-doc-mgmt/static/js/main.c50ee97e.chunk.js.map",
+    "runtime-main.js": "/simple-doc-mgmt/static/js/runtime-main.79379e57.js",
+    "runtime-main.js.map": "/simple-doc-mgmt/static/js/runtime-main.79379e57.js.map",
+    "static/css/2.83962744.chunk.css": "/simple-doc-mgmt/static/css/2.83962744.chunk.css",
+    "static/js/2.25504725.chunk.js": "/simple-doc-mgmt/static/js/2.25504725.chunk.js",
+    "static/js/2.25504725.chunk.js.map": "/simple-doc-mgmt/static/js/2.25504725.chunk.js.map",
+    "index.html": "/simple-doc-mgmt/index.html",
+    "static/css/2.83962744.chunk.css.map": "/simple-doc-mgmt/static/css/2.83962744.chunk.css.map",
+    "static/css/main.5713d629.chunk.css.map": "/simple-doc-mgmt/static/css/main.5713d629.chunk.css.map",
+    "static/js/2.25504725.chunk.js.LICENSE.txt": "/simple-doc-mgmt/static/js/2.25504725.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/simple-doc-mgmt/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79379e57.js",
+    "static/css/2.83962744.chunk.css",
+    "static/js/2.25504725.chunk.js",
+    "static/css/main.5713d629.chunk.css",
+    "static/js/main.c50ee97e.chunk.js"
+  ]
+}
